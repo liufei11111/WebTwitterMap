@@ -11,7 +11,6 @@ dl2956 Diana Liskovich
 	2) Note that since I only used my properties to add the data entries to dynamoDB, you 
 	will probably not able to access my dynamoDB entries through your credential.But,
 	you can access those through below linkes to see what I am pass:
-		http://twittermaplast-env.elasticbeanstalk.com/queryKeyword.do?keyword=6 God
 		http://twittermaplast-env.elasticbeanstalk.com/queryKeyword.do?keyword=Vick
 		http://twittermaplast-env.elasticbeanstalk.com/queryKeyword.do?keyword=BUFvsNYJ
 		http://twittermaplast-env.elasticbeanstalk.com/queryKeyword.do?keyword=CHIvsNE
